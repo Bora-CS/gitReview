@@ -4,5 +4,13 @@ It's been a while!
 OMG it's been busy!
 You guys look as tired as me!
 This is a new change that no one else has, just yet!
+
 NOPE is NOPE
+<<<<<<< HEAD
  Bash Modified this line and changing again 
+=======
+ Bash Modified this line
+
+Hello, my name is AiVan
+
+>>>>>>> 2bc928d0953b97b5c27553db028ebc81836c55a4
